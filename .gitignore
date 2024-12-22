@@ -1,0 +1,56 @@
+# Fichiers compilés
+*.class
+
+# Logs
+*.log
+*.out
+
+# Fichiers de sauvegarde
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Dossiers de builds
+bin/
+build/
+target/
+out/
+
+# Paramètres des IDEs
+.vscode/
+.idea/
+*.iml
+
+# Paramètres spécifiques à Eclipse
+.settings/
+.project
+.classpath
+
+# Paramètres spécifiques à IntelliJ IDEA
+.idea/
+*.iml
+.idea_modules/
+
+# Fichiers spécifiques au système
+.DS_Store
+Thumbs.db
+
+# Fichiers spécifiques à Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Fichiers spécifiques à Gradle
+.gradle/
+build/
+
+# JetBrains
+*.ipr
+*.iws
+
+# Fichiers temporaires de test
+test-output/
